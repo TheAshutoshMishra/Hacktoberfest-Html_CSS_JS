@@ -190,3 +190,9 @@
 
 36. Shubhang Sagar Shukla | [Linkedin Profile](https://www.linkedin.com/in/shubhang-sagar-shukla-944767341/) | [Github Profile](https://github.com/Shubhang-Sagar-Shukla)
     - Added array form of integer
+37. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra) 
+  - Added **GitHub Issue Templates** for:
+  - Bug Reports (`bug_report.md`)
+  - Feature Requests (`feature_request.md`)
+38. Ashutosh Mishra | [LinkedIn](https://www.linkedin.com/in/theashutoshmishra/) | [GitHub](https://github.com/TheAshutoshMishra) 
+   - Added **Pull Request Template** (`PULL_REQUEST_TEMPLATE.md`) to ensure structured and consistent PR submissions.
